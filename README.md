@@ -1,8 +1,8 @@
-# 🔐 Cipher Tools in Python
+# Cipher Tools in Python
 
 This repository contains multiple classic cipher implementations with graphical user interfaces (GUIs) built using Tkinter.
 
-## 📁 Files Overview
+## Files Overview
 
 | File         | Description                                               |
 |--------------|-----------------------------------------------------------|
@@ -12,7 +12,7 @@ This repository contains multiple classic cipher implementations with graphical 
 | `rsa.py`     | RSA encryption and decryption tool                        |
 | `dsa.py`     | Digital signature using RSA and SHA3-512                  |
 
-## ▶️ How to Run
+## ▶How to Run
 
 1. **Install Python 3** (if not already installed):  
    [https://www.python.org/downloads/](https://www.python.org/downloads/)
